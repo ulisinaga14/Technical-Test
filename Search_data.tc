@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56be1209-5714-4ee7-8972-1d6e6b4ebb2c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e70b730-c9b6-4901-a202-8b502c649989</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b716431-54dd-4aaa-92cb-ed0b99b92a19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bc302f6-dd9e-4c20-b2e2-56b78acbf774</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Apply for a number plate'</defaultValue>
+      <description></description>
+      <id>5e70b730-c9b6-4901-a202-8b502c649989</id>
+      <masked>false</masked>
+      <name>search_data</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sydney Domestic Airport 2020\r\n'</defaultValue>
+      <description></description>
+      <id>2b716431-54dd-4aaa-92cb-ed0b99b92a19</id>
+      <masked>false</masked>
+      <name>suburb_data</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rockdale Service Centre\r\n\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>4bc302f6-dd9e-4c20-b2e2-56b78acbf774</id>
+      <masked>false</masked>
+      <name>service_name</name>
+   </variable>
+</TestCaseEntity>
