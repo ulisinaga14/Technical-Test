@@ -59,6 +59,17 @@ Steps :
 16. Go to Forecast Request then update value fields.
 ![image](https://user-images.githubusercontent.com/107898121/224204446-52c5ac6e-579c-49b6-a2c9-cd1661a93118.png)
 
+17. Run and validate is the request is running well.
+
+18. There is an error request.
+![image](https://user-images.githubusercontent.com/107898121/224205034-83c78077-6830-4cc2-a4f8-8d77f86e1bc2.png)
+
+19. Fix it and validate again.
+
+20. The request is running well.
+![image](https://user-images.githubusercontent.com/107898121/224205152-e7590bcc-807a-4a51-94d7-d72d6281b0da.png)
+
+
 
 
 
