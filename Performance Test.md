@@ -69,6 +69,21 @@ Steps :
 20. The request is running well.
 ![image](https://user-images.githubusercontent.com/107898121/224205152-e7590bcc-807a-4a51-94d7-d72d6281b0da.png)
 
+21. Hit the request 10 times in a 1 minute duration.
+
+23. Go to Test plan -> add Threads(user), Ramp-up period (Seconds), Loop Count.
+* Threads(user) : 1
+* Ramp-up period (Seconds) : 60 seconds
+* Loop Count : 10
+![image](https://user-images.githubusercontent.com/107898121/224206271-e0b3c0a7-b4b9-4cdf-9b84-2bbb7a9dc0a6.png)
+
+24. Add Listener to see the result in table. Thread Group -> Add -> Listener -> View Results in Table
+24. Run the request and view the results.
+![image](https://user-images.githubusercontent.com/107898121/224206847-364a4923-3850-4e01-8465-2267bcb08e97.png)
+![image](https://user-images.githubusercontent.com/107898121/224206936-4c7b28b5-84cb-4d20-8e08-fa8e9d1ed034.png)
+
+
+
 
 
 
